@@ -1,0 +1,28 @@
+{
+  "name": "braftonhtmlemails",
+  "version": "1.0.0",
+  "description": "Using MJML to build html friendly emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dking3876/htmlemails.git"
+  },
+  "keywords": [
+    "html",
+    "email"
+  ],
+  "author": "Deryk W. King",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dking3876/htmlemails/issues"
+  },
+  "homepage": "https://github.com/dking3876/htmlemails#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mjml": "^2.0.0",
+    "mjml": "^3.1.1"
+  }
+}
