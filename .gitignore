@@ -1,4 +1,4 @@
 html
 node_modules
 src
-!src/examples/**/*
+!src/examples/test.mjml
